@@ -1,0 +1,100 @@
+body {
+ background-color: #0F0F0F;
+ color: antiquewhite
+}
+#nom{
+ color: antiquewhite;
+ font-style: italic;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#Un{
+    border: #008170;
+    background-color:#008170;
+    border-style: dashed;
+    border-radius: 10px;
+    height: 30px;
+    color:white;
+    justify-content: center;
+    padding-top: 7px;
+    
+}
+#deux {
+    border: solid;
+    border-color: #232D3F;
+    background-color: #232D3F;
+    color: white;
+    margin: 8px;
+    height: 80px;
+    width: 200px;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+#f {
+    color: white;
+}
+.image{
+    border: solid darkgray;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: #739072;
+}
+img{
+    margin: 4px auto auto auto;
+    width: 500px; 
+    
+}
+fieldset{
+    border-radius: 15px;
+    background-color: #232D3F;
+    width: 400px;
+    border-color:#232D3F;
+    color: white
+}
+input{
+    border: solid #232D3F;
+    border-radius: 15px;
+    background-color:white;
+    display: block;
+    margin-left: 100px;
+}
+textarea{
+    border: solid #232D3F;
+    border-radius: 15px;
+    background-color: ;
+    display: block;
+    margin-left: 100px;
+}
+.button {
+    border: solid #232D3F;
+    border-radius: 15px;
+    background-color:floralwhite;
+    display: block;
+    margin-left: 100px;
+    width: 250px;
+    color: #232D3F;
+}
+#l{
+    color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+    justify-content: right;
+}
+.dd {
+    border: #008170 solid;
+    border-radius: 3px;
+    background: #008170;
+    height: fit-content;
+    width: fit-content;
+}
+.ff{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}  
